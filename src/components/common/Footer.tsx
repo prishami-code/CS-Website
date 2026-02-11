@@ -12,6 +12,7 @@ export default function FooterWrapper() {
           "INNOVATION",
           "TECHNOLOGY",
           "FUTURE"
+          "IEEE CS"
         ]}
       />
     </footer>
