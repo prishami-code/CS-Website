@@ -4,9 +4,13 @@ import ImageHover from "@/src/components/common/ImageHover";
 export default function Home() {
   return (
     <>
+
     <Skiper19 />
       <ImageHover/>
       <Footer/>
+
+    
+      
     </>
   );
 }
