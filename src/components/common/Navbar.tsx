@@ -21,13 +21,13 @@ export default function Navbar() {
   }, [pathname]);
 
   const navItems = [
-    { name: "ABC", href: "/" },
-    { name: "TEAM", href: "/team" },
-    { name: "IDK", href: "/idk" },
-    { name: "WHATS THAT", href: "/what" },
-    { name: "ABOUT", href: "/about" },
-    { name: "EVENT", href: "/event" },
-    { name: "CONTACT", href: "/contact" }
+    { name: "About", href: "/" },
+    { name: "Team", href: "/team" },
+    { name: "Events", href: "/idk" },
+    { name: "Blog THAT", href: "/what" },
+    { name: "Contact", href: "/about" },
+    { name: "IDk", href: "/event" },
+    { name: "Confused ", href: "/contact" }
   ];
 
   return (
