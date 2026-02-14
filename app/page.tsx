@@ -6,11 +6,11 @@ import Navbar from "@/src/components/common/Navbar";
 export default function Home() {
   return (
     <>
-    <div><Navbar/></div>
-    <div><Skiper19 />
-      <ImageHover/>
-      <Footer/>
-</div>
+    <Navbar/>
+    <Skiper19 />
+    <ImageHover/>
+    <Footer/>
+
     
     
       
